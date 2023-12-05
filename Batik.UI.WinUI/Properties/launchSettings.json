@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Batik.UI.WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Batik.UI.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
